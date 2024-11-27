@@ -1,0 +1,7 @@
+Project 1
+
+Summary:
+Nyc Airbnb
+
+Source: https://www.kaggle.com/datasets/ebrahimelgazar/new-york-city-airbnb-market
+
